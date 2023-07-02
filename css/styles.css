@@ -1,0 +1,44 @@
+﻿.navbar-nav {
+    margin-left: auto;
+}
+p {
+    line-height: 1.75;
+}
+.navbar-brand {
+    font-family: "Ubuntu";
+    font-size: 1.75rem;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    line-height: 1.3em;
+    padding: 25px;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+h1 {
+    font-family: "Montserrat";
+    font-size: 1rem;
+    line-height: 1.75;
+    font-weight: 900;
+    margin-top: 25px;
+    padding-top: 25px;
+    margin-bottom: 25px;
+    color: white;
+}
+#marketing p {
+    margin-top: 100px;
+    line-height: 2;
+}
+#marketing {
+    background-color: #d7d7cb;
+}
+
+#heroes {
+    background-color: #d7d7cb4d;
+}
+    #heroes p {
+        margin-top: 50px;
+    }
