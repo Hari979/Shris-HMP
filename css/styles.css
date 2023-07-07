@@ -42,3 +42,10 @@ h1 {
     #heroes p {
         margin-top: 50px;
     }
+@media (max-width: 1250px) {
+    .container {
+        display: flex;
+        flex-direction: column;
+        height: 100%;
+    }
+}
